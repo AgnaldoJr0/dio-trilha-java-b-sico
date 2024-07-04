@@ -1,2 +1,2 @@
-# dio-trilha-java-b-sico
-Repositório para o curso de java na dio
+## Trilha da Dio de Java
+# Repositório para o curso de java na dio
